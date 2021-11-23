@@ -1,0 +1,59 @@
+
+.caro{
+    padding-top: 100px;
+    /* text-align: center; */
+}
+.rowo{
+    background-color:rgb(221, 218, 218);
+}
+
+.margin{
+    padding:40px;
+}
+
+.buy-now{
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    padding: 7px 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+.center1{
+    margin-left: 100px;
+}
+
+.item {
+    /* background-color: azure; */
+    -webkit-box-shadow: 10px 13px 24px 1px rgba(0,0,0,0.09);
+    padding: 40px;
+    border-radius: 10px;
+
+
+}
+.title {
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+   color: black;
+    text-transform: uppercase;
+    font-weight: bolder;
+    
+    padding: 10px 0;
+    border-radius: 5px;
+
+}
+
+.categories-title {
+    text-transform: uppercase;
+    font-weight: bolder;
+    background: #121FCF;
+    background: -webkit-linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+    background: -moz-linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+    background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
